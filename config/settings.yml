@@ -41,6 +41,6 @@ ci:
 
 
 heroku:
-  HOST: "mikepolo.herokuapp.com"
+  HOST: ".herokuapp.com"
   MODE_DEBUG: false
   VENV_SYNTHETIC: true
